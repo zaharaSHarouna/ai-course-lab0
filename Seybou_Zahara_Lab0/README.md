@@ -11,5 +11,3 @@ This repository contains Lab 0 setup files for the CS254 AI course including:
 - Environment verification script
 - Python basics notebook
 - Course lab exercises
-### GitHUb Repository Link
-https://github.com/zaharaSHarouna/ai-course-lab0.git
